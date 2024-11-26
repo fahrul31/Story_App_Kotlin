@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="title_landing_page">StoryApp: Bagikan Ceritamu</string>
+    <string name="description_landing_page">Buat dan bagikan cerita visual dengan mudah.\n Fitur kreatif untuk momen yang lebih hidup! Ceritakan kisahmu dalam format yang seru dan bagikan ke teman atau keluarga</string>
+    <string name="login_button">Masuk</string>
+    <string name="signup_button">Daftar</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="email_hint">Masukkan email</string>
+    <string name="password_hint">Masukkan password</string>
+    <string name="login_title">Masuk akun</string>
+    <string name="signup_title">Daftar Akun Baru</string>
+    <string name="signup_name">Nama</string>
+    <string name="login_description">Masukkan nomor handphone atau email dan password kamu untuk masuk ke aplikasi</string>
+    <string name="signup_description">Isi nama, email, dan password untuk berbagi momen dan menemukan cerita seru setiap hari.</string>
+
+    <string name="username">Nama</string>
+    <string name="num_like">10</string>
+    <string name="num_comment">10</string>
+    <string name="description">Deskripsi</string>
+    <string name="galery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="image">Gambar</string>
+    <string name="upload">Unggah</string>
+    <string name="logout">Keluar</string>
+    <string name="add_story">Tambah Story</string>
+    <string name="map">Map</string>
+    <string name="retry">Coba lagi</string>
+    <string name="share_location">Bagikan Lokasi</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>
